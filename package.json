@@ -1,0 +1,22 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "description": "\"Cookbook list shop\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinaBryan/cookbook.git"
+  },
+  "author": "Tina Maddox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinaBryan/cookbook/issues"
+  },
+  "homepage": "https://github.com/TinaBryan/cookbook#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
